@@ -1,0 +1,189 @@
+[
+
+{
+"dev_name":"Alex Cruz",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-LuEVojmOKik/WJjuAUC3C2I/AAAAAAAAAJE/2CBjr2ZLzUI3o4AzZKiqVLH8Ewcb6h1YQCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars0.githubusercontent.com/u/3707102?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/106719058256907397328",
+"twitter":"https://twitter.com/du_alexcruz",
+"github":"https://github.com/Mazda--"
+}},
+
+{
+"dev_name":"Boško",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-lKvF6EIhNiY/UhtVM7T_FuI/AAAAAAAAHVw/3r48xbAoBEsBVYdLs6lIQZGcTsiusJsqgCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars0.githubusercontent.com/u/2848422?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+BoskoTrkulja",
+"twitter":"",
+"github":"https://github.com/chasmodo"
+}},
+
+{
+"dev_name":"Bret Zamzow",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-jsxZ-VKwh1g/Uj4eD-aU6AI/AAAAAAAAH7o/hIv5btvbqswh5RlvsTrmc6GTvXNL4yVVgCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars3.githubusercontent.com/u/1663760?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+BretZamzow",
+"twitter":"",
+"github":"https://github.com/MazWoz"
+}},
+
+{
+"dev_name":"Daniel Johansson",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Nvidia Shield K1 / HTC 10",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_=w200-h200-n-rw-no",
+"card_avatar":"https://avatars0.githubusercontent.com/u/2577140?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+DanielJohansson2000",
+"twitter":"",
+"github":"https://github.com/wrapped"
+}},
+
+{
+"dev_name":"David Kataja",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Pixel (Sailfish)",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_=w200-h200-n-rw-no",
+"card_avatar":"https://avatars3.githubusercontent.com/u/18353557?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/113279851444921217444",
+"twitter":"",
+"github":"https://github.com/krash86"
+}},
+
+{
+"dev_name":"Edwin Rivera",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Pixel (Marlin)",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-yhBoWoQylFA/UZrBdeUPCuI/AAAAAAAAAC8/gbsx2lCHKUACj-iEMXlrr93Irym2gydpwCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars3.githubusercontent.com/u/5893420?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+EdwinSPACEMANRivera",
+"twitter":"",
+"github":"https://github.com/spaceman860"
+}},
+
+{
+"dev_name":"James Taylor",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_=w200-h200-n-rw-no",
+"card_avatar":"https://avatars3.githubusercontent.com/u/1208190?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+JamesTaylor3",
+"twitter":"",
+"github":"https://github.com/JmzTaylor"
+}},
+
+{
+"dev_name":"Josh Chasky",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Nexus 5X, Nexus 6P, Nexus 9, Pixel C",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-Iz9oTvDQlkI/U8z6fnpSWOI/AAAAAAAAFJQ/VCS81wSxWXklwgDPXNl0EuIVmau-5i-ewCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars0.githubusercontent.com/u/4991847?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+JoshChasky",
+"twitter":"",
+"github":"https://github.com/nychitman1"
+}},
+
+{
+"dev_name":"Josh Correll",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Motorola Moto X Pure",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-yIFhPVN6DwY/WF8gUNZpX3I/AAAAAAAAL44/1uVeBRhGZzQimM5WbXPRVsxt8y03os4QQCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars2.githubusercontent.com/u/3066604?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+JoshCorrell",
+"twitter":"",
+"github":"https://github.com/jbats"
+}},
+
+{
+"dev_name":"Josip Lazic",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Nexus 5",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-5jFRLf_C3JE/U90vBzMmxTI/AAAAAAAACk8/3awez9FzeZgNVHXTdIDDVI9eT-j0nhirQCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars1.githubusercontent.com/u/1594126?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+JosipLazic",
+"twitter":"",
+"github":"https://github.com/nasty007"
+}},
+
+{
+"dev_name":"Mark Rhodes",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Nexus 6",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-LStDaqBmK-k/UcojL2IYEPI/AAAAAAAABkg/7ctcfZvMJAw7oyihQiu_gcjvVBY2OdLHACL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars3.githubusercontent.com/u/5507092?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/104191856656335658539",
+"twitter":"",
+"github":"https://github.com/moepda"
+}},
+
+{
+"dev_name":"Mat Pls",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-GpKY3EBfevc/UqTwt9Q_BoI/AAAAAAAAwRg/rB_vR0-gU4oqh_E_klwRBrl3qNj8apMNwCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars3.githubusercontent.com/u/1032952?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+MatPls",
+"twitter":"",
+"github":"https://github.com/tsubus"
+}},
+
+{
+"dev_name":"Nick Doherty",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"Motorola Moto G 3, Motorola Moto X Play",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-4Cw_0ov8hqs/WH8YBa-RCSI/AAAAAAAAaZk/NXwZvsGsIzQfKuYXApv63akFe_Y12LFEQCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars3.githubusercontent.com/u/4216993?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+NickDoherty81",
+"twitter":"",
+"github":"https://github.com/nickdoherty81"
+}},
+
+{
+"dev_name":"Nicolas Dhouailly",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"LG G4 (International)",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-JksKTfeynIE/VXviQJJf6-I/AAAAAAAACkA/czJSTVyO7ZQCLBbdQaoG6WiFLiZ_XsenQCL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars2.githubusercontent.com/u/4294444?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+NicolasDhouailly",
+"twitter":"",
+"github":"https://github.com/Nico60"
+}},
+
+{
+"dev_name":"Randall Rushing",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_=w200-h200-n-rw-no",
+"card_avatar":"https://avatars1.githubusercontent.com/u/497579?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/101146731143183859725",
+"twitter":"",
+"github":"https://github.com/bigrushdog"
+}},
+
+{
+"dev_name":"Shreesha Murthy",
+"dev_title":"Developer / Maintainer",
+"dev_devices":"OnePlus Two, Oneplus Three",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-isW0vMF3llk/VrbXF6NiL5I/AAAAAAAAXpk/RMFPhdJr3rE3vpOFk_VlbK-5V9Z2NOY0ACL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars2.githubusercontent.com/u/10357862?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+shreeshamurthy",
+"twitter":"",
+"github":"https://github.com/Shreeesha"
+}}
+
+]

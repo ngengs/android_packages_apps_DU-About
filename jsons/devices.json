@@ -1,0 +1,65 @@
+[
+
+{
+"device_name_one":"Nexus 5",
+"device_name_two":"Nexus 5X",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-N5.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-5X.png"
+}},
+
+{
+"device_name_one":"Nexus 6",
+"device_name_two":"Nexus 6P",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-Nexus6.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-6p.png"
+}},
+
+{
+"device_name_one":"LG G4",
+"device_name_two":"Moto G3",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG4.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoG3.png"
+}},
+
+{
+"device_name_one":"Moto X Pure",
+"device_name_two":"Moto X Play",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoXPure.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoXPlay.png"
+}},
+
+{
+"device_name_one":"Nvidia Shieldtablet",
+"device_name_two":"Pixel C",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-NvidiaShield.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-PixelC.png"
+}},
+
+{
+"device_name_one":"HTC 10",
+"device_name_two":"Google Pixel",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-HTCM10.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/Pixel.png"
+}},
+
+{
+"device_name_one":"OnePlus 2",
+"device_name_two":"OnePlus 3",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-OnePlusTwo.png",
+"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-OnePlus3.png"
+}},
+
+{
+"device_name_one":"Nexus 9",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-Nexus9.png"
+}}
+
+]
