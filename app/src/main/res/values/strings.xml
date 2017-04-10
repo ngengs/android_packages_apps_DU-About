@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name" translatable="false">DU About</string>
+    <string name="hide_app_icon">Hide app</string>
+    <string name="info">Info</string>
+    <string name="no_connection">Can not access without a internet connection.</string>
+    <string name="general_info_title">General information</string>
+    <string name="developers_title">Developers</string>
+    <string name="device_title">Devices</string>
+    <string name="in_beginning_title">In the beginning…</string>
+    <string name="in_beginning__content">Dirty Unicorns was started at the end of 2012 by Alex Cruz. At the time he never imagined
+        to see the success this project has today.\n\nThe project was created out of pressure by users of Alex Cruz\'s unofficial
+        builds. At the time Alex was compiling unofficial AOKP builds for the EVO 3D and occasionally would include a mod or two
+        not offered by the AOKP crew in his builds. Over time users found themselves divided. Some loved what Alex was doing while
+        others were upset that they no longer had \'pure\' AOKP builds. They pressured Alex to either go back to \'pure\' AOKP
+        builds or change the name.\n\nAlex approached some close friends and they discussed what was happening in his thread and so
+        \'pure\' AOKP builds were dropped. With the help of close friends like Bret Zamzow, James Taylor, Josh Chasky, Barry Smith
+        and a few others it began!</string>
+    <string name="then_now_title">Then and now…</string>
+    <string name="then_now_content">After using AOKP for a few cycles in kitkat, we decided that although we had learned a lot for
+        first timers that we could do much more. We wanted a more AOSP oriented ROM base rather than one that was a mix of CAF and AOSP
+        and loaded with features. We wanted a blank page or at least one that didn\'t have a lot of writing on it.\n\nWe moved on to
+        OmniROM and it was great! Omni had only a few features on top of AOSP and we saw this as a great thing. We did a lot of great
+        things and truly started to learn the framework. We used Omni for lollipop but we wanted more. Like with AOKP we had learned
+        a lot and felt like could do more with \'pure\' AOSP.\n\nSince then we\'ve been AOSP based with a hybrid CAF branch for certain
+        devices.</string>
+    <string name="google_plus_link" translatable="false">https://plus.google.com/u/0/communities/109738128866939227235</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/_DirtyUnicorns_</string>
+    <string name="github_link" translatable="false">https://github.com/DirtyUnicorns</string>
+    <string name="no_contacts">No contact info found</string>
+
+</resources>

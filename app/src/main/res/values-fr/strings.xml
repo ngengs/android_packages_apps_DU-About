@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- DU About strings -->
+    <string name="developers_title">Développeurs</string>
+    <string name="device_title">Appareils</string>
+    <string name="general_info_title">Informations générales</string>
+    <string name="hide_app_icon">Masquer l\'application</string>
+    <string name="in_beginning__content">"Dirty Unicorns a commencé à la fin de l\'année 2012 par Alex Cruz. À l\'époque, il n\'a jamais imaginé que ce projet rencontrerait le succès qu\'il connaît aujourd\'hui.
+
+Le projet a été créé sans aucune pression de la part des utilisateurs des compilations non-officielles d\'Alex Cruz. À l\'époque, Alex compilait des versions non-officielles d\'AOKP pour l\'EVO 3D, parfois, en incluant des modifications non fournies par les développeurs d\'AOKP. Au fil du temps, les utilisateurs se sont retrouvés partagés : certains appréciaient ce qu\'Alex faisait, tandis que d\'autres étaient contrariés de ne pas disposer d\'une version "pure" de l\'AOKP. Ces derniers ont fait pression sur Alex pour que soit il revienne à une version "pure" de l\'AOKP, soit il change le nom de ses compilations.
+
+Alex a contacté quelques-uns de ses amis proches pour parler de ce qui se passait sur son fil de discussion. Puis les compilations AOKP "pures" ont été abandonnées. Avec l\'aide de ses amis proches tels que Bret Zamzow, James Taylor, Josh Chasky, Barry Smith, et quelques autres, c\'était lancé !"</string>
+    <string name="in_beginning_title">Au début…</string>
+    <string name="info">Info</string>
+    <string name="no_connection">Accès impossible sans une connexion Internet.</string>
+    <string name="no_contacts">Aucune information de contact trouvée</string>
+    <string name="then_now_content">"Après avoir utilisé AOKP pendant quelques cycles de KitKat, nous nous sommes rendus compte que nous avions déjà appris beaucoup pour des débutants, et que nous pourrions faire encore plus. Nous voulions une ROM plus orientée vers l\'AOSP, plutôt que ce qui était un mélange de CAF et AOSP, et rempli de fonctionnalités annexes. Nous voulions une page vierge, ou du moins, une page sans trop d\'écriture dessus.
+
+Nous sommes passés à OmniROM, et c'était génial ! Omni n\'avait que quelques fonctionnalités supplémentaires à l\'AOSP, et nous avons vu en cela une grande opportunité. Nous avons fait beaucoup de grandes choses, et nous avons vraiment commencé à apprendre ce qu\'est la structure d\'Android. Nous avons utilisé Omni pour Lollipop, mais nous en voulions toujours plus. Comme avec AOKP, nous avions beaucoup appris, et nous sentions capables d\'en faire encore plus avec de l\'AOSP "pur".
+
+Depuis cet instant, nous nous sommes basés sur l\'AOSP, avec une branche hybride CAF pour certains appareils."</string>
+    <string name="then_now_title">Ensuite, et à présent…</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/no_contacts"
+        android:id="@+id/textView"
+        android:layout_margin="20dp"
+        android:textStyle="bold" />
+</LinearLayout>

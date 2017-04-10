@@ -1,0 +1,38 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/ActionBarOverflow</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+        <item name="material_drawer_background">@color/nav_drawer_background</item>
+        <item name="material_drawer_divider">@color/nav_drawer_divider</item>
+    </style>
+
+    <style name="SubTitleText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/toolbar_subtitle_color</item>
+    </style>
+
+    <style name="ActionBarOverflow" parent="@android:style/Widget.Material.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_overflow</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="SocialDialog" parent="Base.Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
