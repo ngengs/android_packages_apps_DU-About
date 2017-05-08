@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">DU About</string>
+    <string name="hide_app_icon">Απόκρυψη εφαρμογής</string>
+    <string name="info">Πληροφορίες</string>
+    <string name="no_connection">Απαιείται μια σταθερή πρόσβαση στο διαδίκτυο.</string>
+    <string name="general_info_title">Γενικές πληροφορίες</string>
+    <string name="developers_title">Developers</string>
+    <string name="device_title">Συσκευές</string>
+    <string name="in_beginning_title">Στο ξεκίνημα…</string>
+    <string name="in_beginning__content">Το πρότζεκτ ξεκίνησε στα τέλη του 2012 από τον Alex Cruz. Στις παλιές μέρες, δεν περίμενε ότι το δημιούργημα του
+        θα έχει την επιτυχία που έχει σήμερα.\n\nΞεκίνησε μετά από πίεση των χρηστών που είχε ο Alex Cruz στα ανεπίσημα builds του.
+        Τότε, ο Alex Cruz έκανε διάφορα AOKP builds για την συσκευή EVO 3D της HTC όπου πρόσθετε πραγματάκια που η AOKP δεν είχε.
+        Με το καιρό οι χρήστες του βρέθηκαν διχασμένοι. Κάποιοι λάτρευαν αυτά που έκανε ο Alex Cruz,
+        κάποιοι δεν είχαν την αίσθηση ότι είχαν \'γνήσια\' AOKP builds. Του είχαν πει είτε να πάει στα  \'γνήσια\' AOKP
+        builds ή να δημιουργήσει μία ROM. Ο \n\nAlex μίλησε με κάποια άτομα για αυτά που συνέβαιναν και αποφάσισε
+        ότι είναι καλύτερο να σταματήσει τα \'γνήσια\' AOKP builds. Με τη βοήθεια των Bret Zamzow, James Taylor, Josh Chasky, Barry Smith και άλλων έβαλαν πλώρη.</string>
+    <string name="then_now_title">Τότε και τώρα…</string>
+    <string name="then_now_content">Χρησιμοποιώντας AOKP στην KitKat για ένα χρονικό διάστημα, μάθαμε πολλά για πρωτάρηδες και θέλαμε να αποκτήσουμε ακόμα περισσότερη εμπειρία.
+        Θέλαμε μία AOSP εμπειρία και όχι μια μίξη με CAF και AOSP όπως το είχαμε.
+        θέλαμε κάτι απλό, ή τουλάχιστον να μην έχει πολύ ζουμί.\n\nΜεταφερθήκαμε στην OmniROM και είμασταν ικανοποιημένοι! Είχε κάποιες δυνατότητες και ήταν και AOSP.
+        Κάναμε ωραία πράγματα και αποφασίσαμε να μπούμε στα ρηχά με το Framework της. Είχαμε την OmniROM στην lollipop αλλά δεν μας γυάλιζε το μάτι.
+        Όπως με την περίπτωση της AOKP αποκτήσαμε κάποια εμπειρία και είπαμε να δοκιμάσουμε την τύχη μας με την AOSP.\n\nΑπό τότε μείναμε στην AOSP και έχουμε CAF για κάποιες συσκευές.</string>
+    <string name="google_plus_link" translatable="false">https://plus.google.com/u/0/communities/109738128866939227235</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/_DirtyUnicorns_</string>
+    <string name="github_link" translatable="false">https://github.com/DirtyUnicorns</string>
+    <string name="no_contacts">Δεν βρέθηκε κάποια επαφή</string>
+</resources>
