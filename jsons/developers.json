@@ -140,6 +140,17 @@
 }},
 
 {
+"dev_name":"Nathan Chancellor",
+"dev_title":"Developer",
+"uri":{
+"card_background":"https://lh3.googleusercontent.com/-lbF8TAo0UCo/WR5VZga8jeI/AAAAAAAAe7k/tAsPRTnR2JAT9-9-wayHSHVH_oztpyu9ACL0B/s200-c/photo.jpg",
+"card_avatar":"https://avatars3.githubusercontent.com/u/11478138?v=3&s=460",
+"google_plus":"https://plus.google.com/u/0/+NathanChancellor",
+"twitter":"",
+"github":"https://github.com/nathanchance"
+}},
+
+{
 "dev_name":"Nick Doherty",
 "dev_title":"Developer / Maintainer",
 "dev_devices":"Motorola Moto G 3, Motorola Moto X Play",
