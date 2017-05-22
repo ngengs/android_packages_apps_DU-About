@@ -2,9 +2,9 @@
 
 <resources>
 
-    <color name="colorPrimary">#a5120a</color>
-    <color name="colorPrimaryDark">#91100a</color>
-    <color name="colorAccent">#171717</color>
+    <color name="colorPrimary">@*android:color/primary_device_default_dark</color>
+    <color name="colorPrimaryDark">@*android:color/primary_dark_device_default_dark</color>
+    <color name="colorAccent">@*android:color/accent_device_default_light</color>
     <color name="background">#f4f4f4</color>
     <color name="toolbar_title_color">#FFFFFF</color>
     <color name="toolbar_subtitle_color">#FFFFFF</color>
@@ -13,11 +13,11 @@
     <color name="nav_drawer_background">#f4f4f4</color>
     <color name="nav_drawer_divider">#dadada</color>
     <color name="nav_drawer_header_text">#FFFFFF</color>
-    <color name="nav_drawer_text">#171717</color>
-    <color name="nav_drawer_selected_text">#a5120a</color>
+    <color name="nav_drawer_text">#212121</color>
+    <color name="nav_drawer_selected_text">@*android:color/accent_device_default_light</color>
     <color name="nav_drawer_selector">#10000000</color>
-    <color name="nav_drawer_icon_color">#676767</color>
-    <color name="nav_drawer_icon_tint_color">#a5120a</color>
+    <color name="nav_drawer_icon_color">@*android:color/accent_device_default_light</color>
+    <color name="nav_drawer_icon_tint_color">@*android:color/accent_device_default_light</color>
 
     <!-- Cards -->
     <color name="general_info_background">#FFFFFF</color>
