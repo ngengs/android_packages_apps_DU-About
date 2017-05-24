@@ -57,17 +57,17 @@
 }},
 
 {
-"device_name_one":"LG G2 (d802)",
-"uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG2.png"
-}},
-
-{
 "device_name_one":"Xiaomi Mi Mix",
 "device_name_two":"LeEco Le Max 2",
 "uri":{
 "device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-Xiaomi_Mi.png",
 "device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-LeEco_Le_Max2.png"
+}},
+
+{
+"device_name_one":"LG G2 (d802)",
+"uri":{
+"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG2.png"
 }}
 
 ]
