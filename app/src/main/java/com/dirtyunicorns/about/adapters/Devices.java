@@ -32,12 +32,12 @@ import java.util.List;
 
 public class Devices extends RecyclerView.Adapter<Devices.ViewHolder> {
 
-    private List<Util> developers;
+    private List<Util> devices;
     Context context;
-    Util devcards;
+    Util deviceCards;
 
-    public Devices(List<Util> developers) {
-        this.developers = developers;
+    public Devices(List<Util> device) {
+        this.devices = device;
     }
 
     @Override
@@ -52,42 +52,32 @@ public class Devices extends RecyclerView.Adapter<Devices.ViewHolder> {
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
 
-        devcards = developers.get(position);
+        deviceCards = devices.get(position);
 
-        ImageView deviceImageOne = holder.deviceImageOne;
-        Picasso.with(context).load(devcards.getUri().getDeviceImageOne()).into(deviceImageOne);
+        ImageView deviceImageOne = holder.deviceImage;
+        Picasso.with(context).load(deviceCards.getUri().getDeviceImage()).into(deviceImageOne);
 
-        ImageView deviceImageTwo = holder.deviceImageTwo;
-        Picasso.with(context).load(devcards.getUri().getDeviceImageTwo()).into(deviceImageTwo);
-
-        TextView deviceNameOne = holder.deviceNameOne;
-        deviceNameOne.setText(devcards.getDeviceNameOne());
-
-        TextView deviceNameTwo = holder.deviceNameTwo;
-        deviceNameTwo.setText(devcards.getDeviceNameTwo());
+        TextView deviceNameOne = holder.deviceName;
+        deviceNameOne.setText(deviceCards.getDeviceName());
     }
 
     @Override
     public int getItemCount() {
-        return developers.size();
+        return devices.size();
     }
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
 
-        public ImageView deviceImageOne;
-        public ImageView deviceImageTwo;
+        public ImageView deviceImage;
 
-        public TextView deviceNameOne;
-        public TextView deviceNameTwo;
+        public TextView deviceName;
 
         public ViewHolder(View itemView) {
             super(itemView);
 
-            deviceImageOne = (ImageView) itemView.findViewById(R.id.device_one);
-            deviceImageTwo = (ImageView) itemView.findViewById(R.id.device_two);
+            deviceImage = (ImageView) itemView.findViewById(R.id.device);
 
-            deviceNameOne = (TextView) itemView.findViewById(R.id.device_label_one);
-            deviceNameTwo = (TextView) itemView.findViewById(R.id.device_label_two);
+            deviceName = (TextView) itemView.findViewById(R.id.device_label);
         }
     }
 }

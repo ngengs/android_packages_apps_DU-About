@@ -41,7 +41,7 @@ import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    Drawer result = null;
+    Drawer drawer = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,20 +53,20 @@ public class MainActivity extends AppCompatActivity {
 
         if (toolbar != null) {
             setSupportActionBar(toolbar);
-            toolbar.setTitleTextColor(getResources().getColor(R.color.toolbar_title_color));
+            toolbar.setTitleTextColor(getResources().getColor(R.color.toolbar_title_color, null));
             toolbar.setSubtitle(getString(R.string.general_info_title));
             toolbar.setSubtitleTextAppearance(this, R.style.SubTitleText);
         }
 
-        if (toolbar != null) result = new DrawerBuilder()
+        if (toolbar != null) drawer = new DrawerBuilder()
                 .withActivity(this)
                 .withToolbar(toolbar)
                 .withSelectedItemByPosition(1)
                 .withHeader(R.layout.nav_drawer_header)
                 .addDrawerItems(
-                        new PrimaryDrawerItem().withName(getString(R.string.info)).withTextColor(getResources().getColor(R.color.nav_drawer_text)).withSelectedColor(getResources().getColor(R.color.nav_drawer_selector)).withSelectedTextColor(getResources().getColor(R.color.nav_drawer_selected_text)).withIcon(R.drawable.general_info).withIdentifier(1).withSelectable(true).withIconTintingEnabled(true).withSelectedIconColorRes(R.color.nav_drawer_icon_tint_color).withIconColorRes(R.color.nav_drawer_icon_color),
-                        new PrimaryDrawerItem().withName(getString(R.string.developers_title)).withTextColor(getResources().getColor(R.color.nav_drawer_text)).withSelectedColor(getResources().getColor(R.color.nav_drawer_selector)).withSelectedTextColor(getResources().getColor(R.color.nav_drawer_selected_text)).withIcon(R.drawable.developers).withIdentifier(2).withSelectable(true).withIconTintingEnabled(true).withSelectedIconColorRes(R.color.nav_drawer_icon_tint_color).withIconColorRes(R.color.nav_drawer_icon_color),
-                        new PrimaryDrawerItem().withName(getString(R.string.device_title)).withTextColor(getResources().getColor(R.color.nav_drawer_text)).withSelectedColor(getResources().getColor(R.color.nav_drawer_selector)).withSelectedTextColor(getResources().getColor(R.color.nav_drawer_selected_text)).withIcon(R.drawable.devices).withIdentifier(3).withSelectable(true).withIconTintingEnabled(true).withSelectedIconColorRes(R.color.nav_drawer_icon_tint_color).withIconColorRes(R.color.nav_drawer_icon_color),
+                        new PrimaryDrawerItem().withName(getString(R.string.info)).withTextColor(getResources().getColor(R.color.nav_drawer_text, null)).withSelectedColor(getResources().getColor(R.color.nav_drawer_selector, null)).withSelectedTextColor(getResources().getColor(R.color.nav_drawer_selected_text, null)).withIcon(R.drawable.general_info).withIdentifier(1).withSelectable(true).withIconTintingEnabled(true).withSelectedIconColorRes(R.color.nav_drawer_icon_tint_color).withIconColorRes(R.color.nav_drawer_icon_color),
+                        new PrimaryDrawerItem().withName(getString(R.string.developers_title)).withTextColor(getResources().getColor(R.color.nav_drawer_text, null)).withSelectedColor(getResources().getColor(R.color.nav_drawer_selector, null)).withSelectedTextColor(getResources().getColor(R.color.nav_drawer_selected_text, null)).withIcon(R.drawable.developers).withIdentifier(2).withSelectable(true).withIconTintingEnabled(true).withSelectedIconColorRes(R.color.nav_drawer_icon_tint_color).withIconColorRes(R.color.nav_drawer_icon_color),
+                        new PrimaryDrawerItem().withName(getString(R.string.device_title)).withTextColor(getResources().getColor(R.color.nav_drawer_text, null)).withSelectedColor(getResources().getColor(R.color.nav_drawer_selector, null)).withSelectedTextColor(getResources().getColor(R.color.nav_drawer_selected_text, null)).withIcon(R.drawable.devices).withIdentifier(3).withSelectable(true).withIconTintingEnabled(true).withSelectedIconColorRes(R.color.nav_drawer_icon_tint_color).withIconColorRes(R.color.nav_drawer_icon_color),
                         new DividerDrawerItem()
                 )
                 .withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
@@ -99,8 +99,8 @@ public class MainActivity extends AppCompatActivity {
                 .withShowDrawerOnFirstLaunch(false)
                 .build();
 
-        if (result != null) {
-            result.getActionBarDrawerToggle().setDrawerIndicatorEnabled(true);
+        if (drawer != null) {
+            drawer.getActionBarDrawerToggle().setDrawerIndicatorEnabled(true);
         }
 
         Fragment fragment = new GeneralInfo();
@@ -115,8 +115,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        if (result.getCurrentSelection() != 1) {
-            result.setSelection(1);
+        if (drawer.getCurrentSelection() != 1) {
+            drawer.setSelection(1);
             return;
         }
 

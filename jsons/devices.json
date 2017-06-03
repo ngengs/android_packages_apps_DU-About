@@ -1,73 +1,105 @@
 [
 
 {
-"device_name_one":"Nexus 5",
-"device_name_two":"Nexus 5X",
+"device_name":"Nexus 5",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-N5.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-5X.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-N5.png"
 }},
 
 {
-"device_name_one":"Nexus 6",
-"device_name_two":"Nexus 6P",
+"device_name":"Nexus 5X",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-Nexus6.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-6p.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-5X.png"
 }},
 
 {
-"device_name_one":"LG G4",
-"device_name_two":"Moto G3",
+"device_name":"Nexus 6",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG4.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoG3.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-Nexus6.png"
 }},
 
 {
-"device_name_one":"Moto X Pure",
-"device_name_two":"Moto X Play",
+"device_name":"Nexus 6P",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoXPure.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoXPlay.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-6p.png"
 }},
 
 {
-"device_name_one":"Nvidia Shieldtablet",
-"device_name_two":"Pixel C",
+"device_name":"LG G4",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-NvidiaShield.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-PixelC.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG4.png"
 }},
 
 {
-"device_name_one":"HTC 10",
-"device_name_two":"Google Pixel",
+"device_name":"Moto G3",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-HTCM10.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/Pixel.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoG3.png"
 }},
 
 {
-"device_name_one":"OnePlus 2",
-"device_name_two":"OnePlus 3",
+"device_name":"Moto X Pure",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-OnePlusTwo.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-OnePlus3.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoXPure.png"
 }},
 
 {
-"device_name_one":"Xiaomi Mi Mix",
-"device_name_two":"LeEco Le Max 2",
+"device_name":"Moto X Play",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-Xiaomi_Mi.png",
-"device_image_two":"https://download.dirtyunicorns.com/misc/.devices/DU-LeEco_Le_Max2.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-MotoXPlay.png"
 }},
 
 {
-"device_name_one":"LG G2 (d802)",
+"device_name":"Nvidia Shieldtablet",
 "uri":{
-"device_image_one":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG2.png"
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-NvidiaShield.png"
+}},
+
+{
+"device_name":"Pixel C",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-PixelC.png"
+}},
+
+{
+"device_name":"HTC 10",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-HTCM10.png"
+}},
+
+{
+"device_name":"Google Pixel",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/Pixel.png"
+}},
+
+{
+"device_name":"OnePlus 2",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-OnePlusTwo.png"
+}},
+
+{
+"device_name":"OnePlus 3",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-OnePlus3.png"
+}},
+
+{
+"device_name":"Xiaomi Mi Mix",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-Xiaomi_Mi.png"
+}},
+
+{
+"device_name":"LeEco Le Max 2",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-LeEco_Le_Max2.png"
+}},
+
+{
+"device_name":"LG G2 (d802)",
+"uri":{
+"device_image":"https://download.dirtyunicorns.com/misc/.devices/DU-LGG2.png"
 }}
 
 ]

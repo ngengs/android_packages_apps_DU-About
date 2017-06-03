@@ -33,14 +33,10 @@ public class Util implements Serializable {
     @SerializedName("card_avatar")
     private String cardAvatar = null;
 
-    @SerializedName("device_name_one")
+    @SerializedName("device_name")
     private String deviceNameOne;
-    @SerializedName("device_name_two")
-    private String deviceNameTwo;
-    @SerializedName("device_image_one")
+    @SerializedName("device_image")
     private String deviceImageOne = null;
-    @SerializedName("device_image_two")
-    private String deviceImageTwo = null;
 
     @SerializedName("google_plus")
     private String googlePlus = null;
@@ -68,17 +64,11 @@ public class Util implements Serializable {
         return cardAvatar;
     }
 
-    public String getDeviceNameOne() {
+    public String getDeviceName() {
         return deviceNameOne;
     }
-    public String getDeviceNameTwo() {
-        return deviceNameTwo;
-    }
-    public String getDeviceImageOne() {
+    public String getDeviceImage() {
         return deviceImageOne;
-    }
-    public String getDeviceImageTwo() {
-        return deviceImageTwo;
     }
 
     public String getGooglePlus() {

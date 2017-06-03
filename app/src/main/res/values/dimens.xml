@@ -3,5 +3,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="material_drawer_width">300dp</dimen>
+    <dimen name="grid_separator">10dp</dimen>
 
 </resources>

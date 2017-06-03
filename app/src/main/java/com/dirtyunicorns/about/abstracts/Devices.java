@@ -20,13 +20,14 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.preference.PreferenceFragmentCompat;
-import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.dirtyunicorns.about.R;
+import com.dirtyunicorns.about.helpers.GridSpacesItemDecoration;
 import com.dirtyunicorns.about.helpers.Util;
 
 import java.util.ArrayList;
@@ -55,19 +56,20 @@ public abstract class Devices extends PreferenceFragmentCompat {
         assert recyclerView != null;
         recyclerView.setAdapter(adapter);
         recyclerView.setHasFixedSize(true);
-        recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
+        recyclerView.setLayoutManager(new GridLayoutManager(getContext(), 2));
+        recyclerView.addItemDecoration(new GridSpacesItemDecoration(2, getResources().getDimensionPixelSize(R.dimen.grid_separator)));
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) rootView.findViewById(R.id.refresh);
 
         SwipeRefresh();
-        downloadDevs();
+        downloadDevices();
 
         return rootView;
     }
 
     public abstract Call<List<Util>> getDevicesCall();
 
-    public void downloadDevs() {
+    public void downloadDevices() {
 
         list.clear();
         adapter.notifyDataSetChanged();
@@ -122,7 +124,7 @@ public abstract class Devices extends PreferenceFragmentCompat {
         mSwipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                downloadDevs();
+                downloadDevices();
             }
         });
     }
